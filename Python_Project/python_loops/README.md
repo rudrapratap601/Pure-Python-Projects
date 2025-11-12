@@ -33,6 +33,7 @@ It focuses on mastering `for`, `while`, and nested loops, pattern printing, and 
 ### 🧑‍💻 Author
 **Rudrapratap Sarma**  
 🎯 *Aspiring Data Scientist | AI Engineer | Python Developer*  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rudrapratap-sarma/)  
 [![GitHub](https://img.shields.io/badge/GitHub-rudrapratap601-black?logo=github)](https://github.com/rudrapratap601)
 
